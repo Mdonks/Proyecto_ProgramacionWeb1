@@ -2,7 +2,7 @@ import React from 'react';
 import {TodoList} from './components/TodoList';
 
 
-export const App = () =>{
+const App = () =>{
 
     return (
       <TodoList/>
@@ -10,3 +10,5 @@ export const App = () =>{
     )
 
 }
+
+export default App;
