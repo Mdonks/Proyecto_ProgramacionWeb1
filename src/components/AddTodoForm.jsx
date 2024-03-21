@@ -35,6 +35,6 @@ export const TodoAdd = ({ handleNewTodo }) => {
 			<button className='btn-add' type='submit'>
 				Agregar
 			</button>
-		</form>
+		
 	);
 };
